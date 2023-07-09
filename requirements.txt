@@ -1,0 +1,9 @@
+langchain
+openai
+Pillow
+unstructured
+lxml
+#tiktoken
+poppler-utils
+pinecone-client
+Flask==2.0.1
